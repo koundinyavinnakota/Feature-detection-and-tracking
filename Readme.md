@@ -12,16 +12,16 @@
 
 Corner detection             |  
 :-------------------------:|
-<img src="/outputs/corners_image.png" width="350" alt="Alt text" title="">  |  
+<img src="corners_image.png" width="350" alt="Alt text" title="">  |  
 
 ### 2. Feature tracking - Lucas Kanade feature tracking
 Tracked Points            | 
 :-------------------------:|
-<img src="/outputs/Lucas_kanade.png" width="350" alt="Alt text" title=""> |
+<img src="Lucas_kanade.png" width="350" alt="Alt text" title=""> |
 
 ### 3. Shape alignment (Affine transformation)
 Shape Alignment                              
-<img src="outputs/Shape Alignment.png" width="350" alt="Alt text" title=""> 
+<img src="Shape Alignment.png" width="350" alt="Alt text" title=""> 
 
  
 
