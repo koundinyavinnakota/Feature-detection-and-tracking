@@ -90,3 +90,4 @@ def getKeypoints(img, thresh,k,sigma):
 # #To see the detected in the image
 # corners, img = getKeypoints(im[0], thresh,5,1)
 # x, y = corners[:,0],corners[:,1]
+# End of code
